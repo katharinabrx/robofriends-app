@@ -1,0 +1,22 @@
+export const robots = [
+    {"id": 1, "name": "Francesca Berry", "username": "Jacob", "email": "senectus.et@semelitpharetra.ca"},
+	{"id": 2, "name": "Wesley Carrillo", "username": "Kaye", "email": "Curabitur.lectus@blanditueIn.ca"},
+	{"id": 3, "name": "Maile Hansen", "username": "Charles", "email": "tempus.Donec@incursuset.co.uk"},
+	{"id": 4, "name": "Malachi Frederick", "username": "Slade", "email": "erat@Phaselluselitpede.co.uk"},
+	{"id": 5, "name": "Shana Downs", "username": "Hammett", "email": "venenatis.a@nisi.co.uk"},
+	{"id": 6, "name": "Cara Mcdowell", "username": "Maggie", "email": "posuere.enim.nisl@libero.edu"},
+	{"id": 7, "name": "Raya Nash", "username": "Casey", "email": "ridiculus@fringillapurus.org"},
+	{"id": 8, "name": "Adrienne Maldona", "username": "Emmanuel", "email": "Phasellus.quam@inmagna.net"},
+	{"id": 9, "name": "Amos Chambers", "username": "Kibo", "email": "consectetuer@Sed.co.uk"},
+	{"id": 10, "name": "Chadwick Clayton", "username": "Lance", "email": "interdum.feugiat@Suspeend.co.uk"},
+	{"id": 11, "name": "Oren Sullivan", "username": "Illana", "email": "Nullam.enim@velvulputate.com"},
+	{"id": 12, "name": "Yetta Contreras", "username": "Rama", "email": "nibh.enim.gravida@sitamet.ca"},
+	{"id": 13, "name": "August Patrick", "username": "Jessamine", "email": "mi@lobortisquam.edu"},
+	{"id": 14, "name": "Maile Boyd", "username": "Uriah", "email": "erat@Mauris.org"},
+	{"id": 15, "name": "Joan Walters", "username": "Stacey", "email": "magna.a@interdumSedauctor.net"},
+	{"id": 16, "name": "Charissa Poole", "username": "Beau", "email": "Nulla.tincidunt@lacusMauris.com"},
+	{"id": 17, "name": "Amber Bonner", "username": "Sheila", "email": "eget.mollis.lectus@inteSed.net"},
+	{"id": 18, "name": "Leandra Mcclure", "username": "Sebastian", "email": "dictum.mi.ac@eu.co.uk"},
+	{"id": 19, "name": "Martena Noel", "username": "Ferris", "email": "natoque.penatibus.et@nulla.ca"},
+	{"id": 20, "name": "Lesley Cardenas", "username": "Caryn", "email": "nonummy.ipsum@tellusloremeu.edu"}
+]
